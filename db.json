@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James Indigo(update) Doe(updated)",
+      "email": "james_update_do_update@email.com",
+      "phone": "8876543219",
+      "address": "United States of America"
+    },
+    {
+      "name": "Chrysalis",
+      "email": "chrysalisbutterfly@email.com",
+      "phone": "4587434",
+      "address": "Serbia",
+      "id": 4
+    },
+    {
+      "name": "Jenny",
+      "email": "jenny@email.com",
+      "phone": "5672309111",
+      "address": "Italy",
+      "id": 5
+    }
+  ]
+}
